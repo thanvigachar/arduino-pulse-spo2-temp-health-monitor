@@ -43,8 +43,8 @@ project (UE23CS251B), PES University, Jan–May 2025.
 
 ## Documentation
 
-- [Project report](docs/MPCA_Lab_Project_Report.docx)
-- [Components list](docs/Components_Used.docx)
+- [Project report](Health_monitoring_report.docx)
+- [Components list](docs/Components_Used_for_Project.docx)
 
 ## Team
 
